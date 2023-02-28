@@ -1,7 +1,7 @@
 # Expenses Tracker App
 With this app you can easily track your expensis
 ## ✅ Prewiew
-Live Prewiev: [Click Here](https://hoobank-project-ten.vercel.app/)
+Live Prewiev: [Nothing here]()
 ## ✨ Features in future 
 * Users system
 * Log in and tag expenses
